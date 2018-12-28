@@ -1,4 +1,4 @@
-#Asus.com subdomains
+Asus.com subdomains
 www.asus.com
 aae-sgsip001-1.asus.com
 aae-sgweb065.asus.com
