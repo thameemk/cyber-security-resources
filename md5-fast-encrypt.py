@@ -2,8 +2,8 @@ import socket
 import hashlib
 
 # global defination
-target_host = "docker.hackthebox.eu"
-target_port = 37027
+target_host = ""
+target_port =
 
 
 def create_connection():
